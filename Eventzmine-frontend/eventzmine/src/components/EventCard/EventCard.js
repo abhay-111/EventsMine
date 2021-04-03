@@ -16,9 +16,11 @@ export default class EventCard extends Component {
                 <img
                   src={"http://localhost:8080/" + this.props.posterUrl}
                   style={{
-                    backgroundPosition: "center",
+                    // transition: visibility 0s ease 0s, opacity 0.3s linear 0s;
+                    // objectFit: "contain",
+                    // backgroundPosition: "center",
                     height: "200px",
-                    width: "380px",
+                    width: "350px",
                     borderRadius: "8px",
                   }}
                 ></img>

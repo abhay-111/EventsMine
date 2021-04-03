@@ -1,3 +1,7 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
 .project {
   display: flex;
   justify-content: space-around;
@@ -18,8 +22,10 @@
   transition: 0.3s;
 }
 .card img {
-  height: 400px;
+  height: 380px;
   border-radius: 10px;
+  object-fit: cover;
+  transition: visibility 0s ease 0s, opacity 0.3s linear 0s;
 }
 
 /* On mouse-over, add a deeper shadow */

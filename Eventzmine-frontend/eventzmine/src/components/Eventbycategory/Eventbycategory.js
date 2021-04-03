@@ -126,6 +126,7 @@ export default class Eventbycategory extends Component {
             {data}
           </Row>
         </Container>
+        <Footer></Footer>
       </React.Fragment>
     );
   }

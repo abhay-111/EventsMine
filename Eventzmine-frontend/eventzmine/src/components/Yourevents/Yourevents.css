@@ -1,0 +1,10 @@
+.yourevents {
+  display: flex;
+  flex-direction: column;
+}
+.event {
+  padding: 10px 10px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  width: 100%;
+  /* height: 200px; */
+}
