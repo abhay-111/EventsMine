@@ -2,6 +2,7 @@ const Event = require("../models/Event");
 const Corporate = require("../models/Corporate");
 const mongoose = require("mongoose");
 const { response } = require("express");
+
 exports.createEvent = (req, res, next) => {
   const poster = req.file;
   const email = req.body.email;
