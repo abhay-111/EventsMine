@@ -1,6 +1,11 @@
 .sidebar {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   border-radius: 8px;
+  width: 80%;
+  justify-content: center;
+  border: 1px solid black;
+  /* position: fixed; */
+  padding: 15px 20px;
 }
 .evetcard {
   margin-bottom: 10px;

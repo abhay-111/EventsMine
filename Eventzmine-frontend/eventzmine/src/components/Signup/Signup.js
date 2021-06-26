@@ -143,7 +143,7 @@ export default class Signup extends Component {
             <Col></Col>
           </Row>
         </Container>
-        <Footer></Footer>
+        {/* <Footer></Footer> */}
       </div>
     );
   }

@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "http://localhost:8080/";
+const BASE_URL = "https://enigmatic-peak-96898.herokuapp.com/";
 class Serverservice {
   signup = (data) => {
     // console.log("servic");

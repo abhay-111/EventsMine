@@ -101,13 +101,18 @@ export default class EventDetails extends Component {
                 <img
                   className="ml-5"
                   src={"http://localhost:8080/" + this.state.event.posterUrl}
-                  style={{ width: "60%", borderRadius: "8px", height: "500px" }}
+                  style={{
+                    width: "60%",
+                    borderRadius: "8px",
+                    height: "500px",
+                    objectFit: "cover",
+                  }}
                   alt={"ALternate"}
                 />
               </Container>
             </Col>
             <Col lg={8}>
-              <Container className="mt-5">
+              <Container className="mt-2">
                 <h1>{this.state.event.eventname} </h1>
                 <ReactStars
                   count={5}

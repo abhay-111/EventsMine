@@ -84,8 +84,8 @@ export default class Eventbycategory extends Component {
         <Container className="mt-5" fluid>
           <Row>
             <Col>
-              <Container className="sidebar">
-                <div style={{ margin: "10px 20px" }}>
+              <Container className="sidebar ">
+                <div>
                   <h5>Search Events</h5>
                   <hr></hr>
                   <h6>Event Type</h6>
@@ -121,12 +121,12 @@ export default class Eventbycategory extends Component {
                   </ul>
                   <hr />
                 </div>
+                {/* <h3>ABHAY</h3> */}
               </Container>
             </Col>
             {data}
           </Row>
         </Container>
-        <Footer></Footer>
       </React.Fragment>
     );
   }
