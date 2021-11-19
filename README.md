@@ -24,6 +24,7 @@ the required details.
 * ### Landing Page ### 
 <p align="center">
   <img src="Project_Images/home.PNG">
+  <h5>Landing Page</h5>
   <img src="Project_Images/home2.PNG">
 </p>
 
