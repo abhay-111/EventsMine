@@ -27,14 +27,14 @@ This repository has **2 Branches**:
   <img src="Project_Images/home2.PNG">
 </p>
 
-* ### Product detail page ###
+* ### Login ###
 <p align="center">
-  <img src="Project_Images/ProductDisplay.png">
+  <img src="Project_Images/login.PNG">
 </p>
 
-* ### Wishlist ###
+* ### Listed Events ###
 <p align="center">
-  <img src="Project_Images/Wishlist.png">
+  <img src="Project_Images/listed_event.PNG">
 </p>
 
 * ### Cart ###
