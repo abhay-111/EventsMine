@@ -34,7 +34,7 @@ This repository has **2 Branches**:
 
 * ### Listed Events ###
 <p align="center">
-  <img src="Project_Images/listed_event.PNG">
+  <img src="Project_Images/listed event.PNG">
 </p>
 
 * ### Cart ###
