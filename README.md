@@ -23,8 +23,8 @@ This repository has **2 Branches**:
 
 * ### Landing Page ### 
 <p align="center">
-  <img src="/Project_Images/home.png">
-  <img src="/Project_Images/home2.png">
+  <img src="Project_Images/home.PNG">
+  <img src="Project_Images/home2.PNG">
 </p>
 
 * ### Product detail page ###
