@@ -50,7 +50,7 @@ the required details.
 
 * ### Your Tickets ###
 <p align="center">
-  <img src="Project_Images/your tickets.PNG">
+  <img src="Project_Images/your ticket.PNG">
 </p>
 
 * ### Book Ticket ###
