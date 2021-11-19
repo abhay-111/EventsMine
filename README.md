@@ -37,35 +37,32 @@ This repository has **2 Branches**:
   <img src="Project_Images/listed event.PNG">
 </p>
 
-* ### Cart ###
+* ### Event Detail ###
 <p align="center">
-  <img src="Project_Images/Cart.png">
+  <img src="Project_Images/event detail.PNG">
 </p>
 
 * ### Profile Details ###
 <p align="center">
-<img src="Project_Images/ProfileDetails.png">
+<img src="Project_Images/profile.PNG">
 </p>
 
-* ### Past Orders ###
+* ### Your Tickets ###
 <p align="center">
-  <img src="Project_Images/OrderHistory.png">
+  <img src="Project_Images/your tickets.PNG">
 </p>
 
-* ### Featured Products
+* ### Book Ticket ###
 <p align="center">
-  <img src="Project_Images/FeaturedProducts.png">
+  <img src="Project_Images/book ticket.PNG">
 </p>
 
-* ### Personalized Products
+* ### Change Password ###
 <p align="center">
-  <img src="Project_Images/PersonalizedProducts.png">
+  <img src="Project_Images/change password.PNG">
 </p>
 
-* ### Landing Page ###
-<p align="center">
-  <img src="Project_Images/HomePage.png">
-</p>
+
 
 ## Screens for Seller-role
 
