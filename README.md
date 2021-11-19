@@ -21,7 +21,7 @@ This repository has **2 Branches**:
 
 ## Screens for Buyer-role
 
-* ###Landing Page ### 
+* ### Landing Page ### 
 <p align="center">
   <img src="Project_Images/home.png">
   <img src="Project_Images/home2.png">
