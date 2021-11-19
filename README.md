@@ -1,6 +1,6 @@
 # EventsMine
 https://eventzmine-67789.web.app/
-# E-commerce project
+# Eventzmine project
 
 <p float="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" width="100" />
@@ -21,9 +21,10 @@ This repository has **2 Branches**:
 
 ## Screens for Buyer-role
 
-* ### Categorized Products ### 
+* ###Landing Page ### 
 <p align="center">
-  <img src="Project_Images/SubcategorizedProducts.png">
+  <img src="Project_Images/home.png">
+  <img src="Project_Images/home2.png">
 </p>
 
 * ### Product detail page ###
