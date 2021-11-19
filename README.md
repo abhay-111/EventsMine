@@ -66,17 +66,13 @@ This repository has **2 Branches**:
 
 ## Screens for Seller-role
 
-* ### Landing Page ### 
+* ### List Your Event ### 
 <p align="center">
-  <img src="Project_Images/SellerLandingPage.png">
+  <img src="Project_Images/listevent.PNG">
 </p>
 
-* ### Upload Product ### 
+* ###Your Events ###
 <p align="center">
-  <img src="Project_Images/SellProduct.png">
+  <img src="Project_Images/yourevent.PNG">
 </p>
 
-* ### View Products' stocks ### 
-<p align="center">
-  <img src="Project_Images/ProductsSold.png">
-</p>
