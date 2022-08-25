@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const eventRoutes = require("./routes/eventRoutes");
 const authRoutes = require("./routes/authController");
 const userRoutes = require("./routes/userRoutes");
-
+require("dotenv").config();
 const homeRoutes = require("./routes/homeRoutes");
 const Event = require("./models/Event");
 const express = require("express");
@@ -82,14 +82,14 @@ app.use((error, req, res, next) => {
     data: data,
   });
 });
-
+const PORT = process.env.PORT || 8080;
 mongoose
   .connect(
-    "mongodb+srv://abhay:abhay123@cluster0.ptxfi.mongodb.net/data?retryWrites=true&w=majority",
+    "mongodb+srv://abhay:abhay232@cluster0.ptxfi.mongodb.net/?retryWrites=true&w=majority",
     { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => {
-    app.listen(8080, () => {
+    app.listen(PORT, () => {
       console.log("server up and running");
     });
   })
