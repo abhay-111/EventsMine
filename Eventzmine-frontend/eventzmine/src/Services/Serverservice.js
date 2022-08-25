@@ -1,10 +1,7 @@
 import axios from "axios";
-const BASE_URL = "https://enigmatic-peak-96898.herokuapp.com/";
+const BASE_URL = "https://stark-fortress-38086.herokuapp.com/";
 class Serverservice {
   signup = (data) => {
-    // console.log("servic");
-    // console.log(data);
-
     return axios.post(BASE_URL + "auth/signup", data);
   };
 

@@ -85,7 +85,7 @@ app.use((error, req, res, next) => {
 const PORT = process.env.PORT || 8080;
 mongoose
   .connect(
-    "mongodb+srv://abhay:abhay232@cluster0.ptxfi.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://abhay:abhay123@cluster0.pnqfdyc.mongodb.net/?retryWrites=true&w=majority",
     { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => {
